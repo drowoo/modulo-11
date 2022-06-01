@@ -1,0 +1,53 @@
+@import url(./navbar.css); 
+
+
+*{
+    box-sizing: border-box;
+}
+
+html{
+    background-color: rgb(27, 51, 73);
+    font-size: 62.5%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.bg{
+    background-image: url(imagem.jpg);
+    background-repeat: repeat-x;
+    height: 600px;
+    background-position: top;
+    background-color:rgb(27, 51, 73) ;
+}
+
+
+.sobremim{
+    width: 45%;
+    margin-top: 8%;
+    margin-right: 2%;
+    float: right;
+
+}
+
+.sobremim h1{
+    font-family: 'Amatic SC', cursive;
+    font-size: 7.0rem;
+    color: white;
+    font-weight: lighter;
+    letter-spacing: 2px;
+
+}
+
+.sobremim p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.8rem;
+    padding-top: 15px;
+    letter-spacing: 2px;
+    color: #f0a8b4;
+    font-weight: lighter;
+}
+
+
+
+
+
